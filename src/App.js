@@ -212,9 +212,6 @@ function App() {
           <button onClick={handleTrain} disabled={isPlaying || isTraining}>
             {isTraining ? 'Training...' : 'Train'}
           </button>
-          <button onClick={handleTest} disabled={isPlaying || isTraining}>
-            Test
-          </button>
           <button onClick={isPlaying ? handleStop : handlePlay} disabled={isTraining}>
             {isPlaying ? 'Stop' : 'Play Game'}
           </button>
