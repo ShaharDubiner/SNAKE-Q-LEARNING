@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SNAKE-Q-LEARNING/static/css/main.e6c13ad2.css",
-    "main.js": "/SNAKE-Q-LEARNING/static/js/main.d64be8ab.js",
+    "main.js": "/SNAKE-Q-LEARNING/static/js/main.c4236035.js",
     "static/js/453.e45cdb57.chunk.js": "/SNAKE-Q-LEARNING/static/js/453.e45cdb57.chunk.js",
     "index.html": "/SNAKE-Q-LEARNING/index.html",
     "main.e6c13ad2.css.map": "/SNAKE-Q-LEARNING/static/css/main.e6c13ad2.css.map",
-    "main.d64be8ab.js.map": "/SNAKE-Q-LEARNING/static/js/main.d64be8ab.js.map",
+    "main.c4236035.js.map": "/SNAKE-Q-LEARNING/static/js/main.c4236035.js.map",
     "453.e45cdb57.chunk.js.map": "/SNAKE-Q-LEARNING/static/js/453.e45cdb57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d64be8ab.js"
+    "static/js/main.c4236035.js"
   ]
 }
